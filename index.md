@@ -8,3 +8,5 @@ Otto Lilienthal ist nachweislich der erste Mensch gewesen, der mit einem selbstg
 * Experimentierfreudig
 * Unerschrocken
 
+> Eine Flugmaschine zu erfinden bedeutet wenig; sie zu bauen schon mehr; aber sie zu fliegen, das ist das Entscheidende.
+
