@@ -8,3 +8,5 @@ Otto Lilienthal ist nachweislich der erste Mensch gewesen, der mit einem selbstg
 * Experimentierfreudig
 * Unerschrocken
 
+<img src="https://beruhmte-zitate.de/media/authors/otto-lilienthal.detail.jpg"/>
+
