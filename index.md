@@ -8,3 +8,9 @@ Otto Lilienthal ist nachweislich der erste Mensch gewesen, der mit einem selbstg
 * Experimentierfreudig
 * Unerschrocken
 
+## Eigenschaften
+
+* Liebt die Naturwissenschaft
+* Experimentierfreudig
+* Unerschrocken
+
