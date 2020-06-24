@@ -8,5 +8,6 @@ Otto Lilienthal ist nachweislich der erste Mensch gewesen, der mit einem selbstg
 * Experimentierfreudig
 * Unerschrocken
 
-<img src="https://beruhmte-zitate.de/media/authors/otto-lilienthal.detail.jpg"/>
+Eine Flugmaschine zu erfinden bedeutet wenig; sie zu bauen schon mehr; aber sie zu fliegen, das ist das Entscheidende.
 
+<img src="https://beruhmte-zitate.de/media/authors/otto-lilienthal.detail.jpg"/>
